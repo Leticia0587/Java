@@ -5,27 +5,20 @@ import java.util.Scanner;
 public class LacoRepeticao1 {
 
 	public static void main(String[] args) {
-		
-		int numero,x, par=0, impar=0;
+	
+		int num;
 		
 		try (Scanner leia = new Scanner (System.in)) {
-			for(x=1;x<=10;x++);
-			{
-				System.out.println("Entre com um numero: ");
-				numero=leia.nextInt();
-			
-				if (numero%2 == 0);
-				{  
-					par++;
+			for (num=1000; num<=1999; num++) {
+				
+				if (num %11 == 5) {
+					
+					System.out.println("Os numeros de 1000 a 1999 divididos por 11 que tem resto igual a 5 sao: "+num);
+	
 				}
-				 if (numero%2 == 1)
-				{
-					impar++;
-				}
-			}
-		} System.out.println("Os numeros pares sao: "+par);
-		  System.out.println("Os numeros impares sao: "+impar);
 
 	}
 
+}
+	}
 }
