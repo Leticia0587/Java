@@ -1,8 +1,8 @@
-package com.generation.conta;
+package Conta.src.com.generation.conta;
 
-import com.generation.conta.model.Banco;
-import com.generation.conta.model.Conta;
-import com.generation.conta.model.ContaCorrente;
+import Conta.src.com.generation.conta.model.Banco;
+import Conta.src.com.generation.conta.model.Conta;
+import Conta.src.com.generation.conta.model.ContaCorrente;
 
 
 public class Menu {
