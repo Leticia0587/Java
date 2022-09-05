@@ -1,4 +1,4 @@
-package com.generation.conta_02.model;
+package Conta2.src.com.generation.conta_02.model;
 
 public class Conta {
 	

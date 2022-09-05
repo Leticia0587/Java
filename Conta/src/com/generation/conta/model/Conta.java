@@ -1,5 +1,7 @@
 package com.generation.conta.model;
 
+import com.generation.conta.model.String;
+
 public class Conta {
 	
 	private int numero;
@@ -90,4 +92,3 @@ public class Conta {
 
 	}
 }
-
