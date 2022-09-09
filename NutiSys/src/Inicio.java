@@ -1,4 +1,4 @@
-package NutriSys;
+package Java.NutiSys.src;
 
 import java.util.ArrayList;
 import java.util.InputMismatchException;

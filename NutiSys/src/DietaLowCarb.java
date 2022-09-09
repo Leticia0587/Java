@@ -1,4 +1,4 @@
-package NutriSys;
+package Java.NutiSys.src;
 
 public class DietaLowCarb extends Dieta {
 

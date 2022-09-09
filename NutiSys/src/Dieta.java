@@ -1,4 +1,4 @@
-package NutriSys;
+package Java.NutiSys.src;
 
 //mport java.util.ArrayList;
 //import java.util.Scanner;
